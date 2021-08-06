@@ -376,7 +376,7 @@
                             </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="LEx-VM-f2t"/>
-                        <color key="backgroundColor" red="0.78823529410000004" green="0.85098039219999999" blue="0.61960784310000006" alpha="0.69999999999999996" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.55686277149999996" green="0.59607845540000004" blue="0.44705885649999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </view>
                     <navigationItem key="navigationItem" id="IAE-8U-KVj"/>
                 </viewController>
@@ -502,7 +502,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <attributedString key="attributedText">
                                     <fragment>
-                                        <mutableString key="content">Fast fashion is a relatively new term used to describe majors brands that are able to produce clothes at a record speed while keeping up with trends. It’s hard to cite the origins of fast fashion but it’s a step in modern clothing production. In the 17th century up until the early 1900s clothing was often made at local dressmaking stores or handmade. It wasn’t until the World Wars where the standardization of clothing production occurred due to fabric restrictions. From the 1950s and onwards fashion trends started to move at a faster speed causing fashion companies to outsource production and create textile mills outside of the US. In the 1990s and 2000s fast fashion took off.</mutableString>
+                                        <string key="content">Fast fashion is a relatively new term used to describe majors brands that are able to produce clothes at a record speed while keeping up with trends. It’s hard to cite the origins of fast fashion but it’s a step in modern clothing production. In the 17th century up until the early 1900s clothing was often made at local dressmaking stores or handmade. It wasn’t until the World Wars where the standardization of clothing production occurred due to fabric restrictions. From the 1950s and onwards fashion trends started to move at a faster speed causing fashion companies to outsource production and create textile mills outside of the US. In the 1990s and 2000s fast fashion took off.</string>
                                         <attributes>
                                             <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="20" name="AvenirNextCondensed-Regular"/>
@@ -1266,8 +1266,8 @@ Cg
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <attributedString key="attributedText">
                                     <fragment>
-                                        <mutableString key="content">Greenwashing, coined by environmentalist Jay Westerveld in 1986, refers to the practice of companies to shift focus from their appalling environmental history and brand themselves as sustainable/ environmentally friendly. While greenwashing isn’t just applicable to the fashion industry they are notorious for this behavior. Brands often spend more money advertising themselves as “green” rather than creating business practices that lessen environmental impact. Greenwashing is not only misleading, but also distracts consumers from real environmental issues. There are ways to see through greenwashing, though!
-</mutableString>
+                                        <string key="content">Greenwashing, coined by environmentalist Jay Westerveld in 1986, refers to the practice of companies to shift focus from their appalling environmental history and brand themselves as sustainable/ environmentally friendly. While greenwashing isn’t just applicable to the fashion industry they are notorious for this behavior. Brands often spend more money advertising themselves as “green” rather than creating business practices that lessen environmental impact. Greenwashing is not only misleading, but also distracts consumers from real environmental issues. There are ways to see through greenwashing, though!
+</string>
                                         <attributes>
                                             <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                             <font key="NSFont" size="20" name="AvenirNextCondensed-Regular"/>
